@@ -1,37 +1,122 @@
-## Welcome to GitHub Pages
+## 郭亚迪_Android开发_5年
 
-You can use the [editor on GitHub](https://github.com/Ninja2005/Ninja2005.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 手机：18368022680
+- 微信：adigyd
+- Email：guoyadi@live.cn
 
-### Markdown
+### 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 郭亚迪/男/1992 
+- 本科/华侨大学/信息与计算科学 
+- 工作年限：5年
+- 技术博客：https://juejin.im/user/572cb9001ea4930064cd9ac5
+- Github：https://github.com/Ninja2005
 
-```markdown
-Syntax highlighted code block
+- 期望职位：Android高级程序员
+- 期望薪资：税前月薪8k~10k，特别喜欢的公司可例外
+- 期望城市：石家庄
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 工作经历
 
-1. Numbered
-2. List
+#### [浙江浙商国际金融资产交易中心股份有限公司](http://www.zifae.com/)（ 2018年10月 ~ 至今 ）
 
-**Bold** and _Italic_ and `Code` text
+##### 浙商国金
+浙商交易中心APP，包括金融资讯、理财产品、资产交易等模块。
 
-[Link](url) and ![Image](src)
-```
+项目职责：
+1. APP端需求分析，技术方案，任务排期；
+2. Android端代码编写，性能优化，单元测试，bug修复，与其他部门对接；
+3. 应用的发布、分发，线上数据的监控；
+4. 推动公司技术部门进行代码review；
+5. 负责相关技术文档的编写。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+技术点：
+1. 支付模块封装，包括银企直连和三方存管：民生银行支付、通联支付、华瑞银行支付、渤海银行存管；
+2. 交易模块：包括产品购买、实名认证、风险测评、银行卡管理、资产认证；
+3. 资讯模块：完全配置化的页面信息流展示，后台控制的页面列表与页面内容；
+4. 安全键盘：随机键盘、数据加密、自定义样式；
+5. 性能优化，内存泄漏定位处理，版本、机型兼容；
+6. 主要三方库：RxAndroid、Retrofit、Okhttp3、UMeng、腾讯TBS、银行支付、Glide、Richtext；
+7. Hybrid框架和JsBridge路由规则制定，打通服务、web、客户端之间的UI与数据交互。
 
-### Jekyll Themes
+##### 紫金湾营销系统
+地产营销系统，用于房源预约和活动报名，包括微信小程序和后台管理系统。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ninja2005/Ninja2005.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+项目职责：
+1. 整个项目的需求分析，原型设计，技术方案，任务排期；
+2. 参与小程序和Web前端代码编写，单元测试，bug修复;
+3. 负责相关技术文档的编写；
+4. 与客户沟通，即时反馈阶段成果，即时更改客户提出的合理需求。
 
-### Support or Contact
+技术点：
+1. 后台管理系统框架vue-element-admin，基于Vue和element-ui实现，支持动态路由、权限验证；
+2. 小程序框架mpvue，基于Vue.js，支持H5代码转换编译成小程序；
+3. 后台管理系统，客户管理/房源管理/活动管理/预约管理；
+4. 小程序，房源展示/活动展示/房源预约/活动报名；
+5. 裂变营销，用户数据监测与分析。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [杭州中焯信息技术股份有限公司](https://www.tzt.cn/#/) （ 2015年11月 ~ 2018年5月 ）
+
+##### [投资堂](https://sj.qq.com/myapp/detail.htm?apkName=com.hongtazztztcgsc)
+公司主要业务是为券商开发手机炒股软件。该项目为手机炒股软件完整版，包括行情、交易、资讯、开户、直播、理财商城等功能，券商以此为基础进行个性化定制。
+
+项目职责：
+1. 参与炒股软件SDK的研发；
+2. 负责帮助开发组同事解决软件开发问题以及代码审查工作；
+3. 参与K线图绘制、行情主推、消息推送、股票交易逻辑、个人中心等模块的开发；
+4. 根据股票交易所新规，进行相关交易业务的开发；
+5. 负责相关技术文档的编写。
+
+技术点：
+1. 股票详情：K线图绘制、股票指标设制，优化界面显示效率；
+2. 行情主推：通过长连接、心跳，实现消息推送，提高数据更新速度；
+3. 行情/交易SDK的封装，规范API调用，提供集成文档；
+4. 性能优化，内存泄漏定位处理，界面加载速度优化，启动速度优化；
+5. 统计模块：tztMob，统计崩溃日志、设备信息和自定义事件；
+6. 路由：通过JSBridge实现界面跳转、功能调用、与Web端数据交互，以满足复杂的股票业务需求；
+7. 项目重构：从MVC到MVP，组件化与业务拆分，解耦，提高开发效率。
+
+##### [中山证券](https://sj.qq.com/myapp/detail.htm?apkName=com.zssc)/[掌中投](https://sj.qq.com/myapp/detail.htm?apkName=cn.cisc)
+中山证券/中投证券手机炒股APP，在"投资堂"基础上进行迭代开发。
+
+项目职责：
+1. 根据券商需求，对行情、交易、资讯等模块进行迭代开发；
+2. 定制开发新功能：个股笔记、个人中心、多账户切换；
+3. 对界面进行个性化定制。
+
+#### [康坦通(杭州)生物科技有限公司](http://www.iris1st.com/) （ 2015年4月 ~ 2015年11月 ）
+
+##### 虹膜设备管理APP
+虹膜识别设备管理软件，包括：虹膜信息识别/管理、虹膜识别设备控制、用户信息管理等功能。
+
+项目职责：
+1. 独立负责虹膜设备管理APP开发。
+
+技术点：
+1. 虹膜识别SDK集成，虹膜图像处理；
+2. TCP局域网通信，对设备进行控制。
+  
+### 开源项目
+
+ - [AndroidMVVM](https://github.com/Ninja2005/AndroidMVVM)：MVVM快速集成框架，使用Jetpack组件，整合Retrofit+Okhttp+RxJava+Glide等主流模块。
+ - [AndroidMVP](https://github.com/Ninja2005/AndroidMVP)：整合了大量主流开源项目的 Android MVP 快速集成框架
+ - [MyKeyboard](https://github.com/Ninja2005/MyKeyboard)：Android自定义键盘，仿招商银行
+    
+### 技能清单
+
+以下均为我熟练使用的技能
+
+- APP开发 Android/Java
+- APP框架 MVP/MVVM
+- 单元测试：JUnit/Mockito
+- 前端开发 HTML/CSS/JavaScript
+- 前端框架 Vue
+- 开放平台 微信公众号/小程序开发
+- 版本管理 Git/svn
+- 其它 需求分析、Axure原型图
+
+### 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
